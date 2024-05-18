@@ -11,7 +11,11 @@ In particular, try answering following questions and provide table definitions f
 and this week to explain the changes.
 
 - Was your database already in 2NF / 3 NF?
+  
+The database is structured without any issues or partial dependencies and it meets the requirements of 2NF 
+
 - What changes did you have to do to normalize your database?
+  No changes had to be made to the database.
 
 ## Discussion
 
